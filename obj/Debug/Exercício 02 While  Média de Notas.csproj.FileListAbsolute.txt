@@ -1,0 +1,7 @@
+C:\Users\Ornare\source\repos\Exercício 02 While  Média de Notas\bin\Debug\Exercício 02 While  Média de Notas.exe.config
+C:\Users\Ornare\source\repos\Exercício 02 While  Média de Notas\bin\Debug\Exercício 02 While  Média de Notas.exe
+C:\Users\Ornare\source\repos\Exercício 02 While  Média de Notas\bin\Debug\Exercício 02 While  Média de Notas.pdb
+C:\Users\Ornare\source\repos\Exercício 02 While  Média de Notas\obj\Debug\Exercício 02 While  Média de Notas.csproj.AssemblyReference.cache
+C:\Users\Ornare\source\repos\Exercício 02 While  Média de Notas\obj\Debug\Exercício 02 While  Média de Notas.csproj.CoreCompileInputs.cache
+C:\Users\Ornare\source\repos\Exercício 02 While  Média de Notas\obj\Debug\Exercício 02 While  Média de Notas.exe
+C:\Users\Ornare\source\repos\Exercício 02 While  Média de Notas\obj\Debug\Exercício 02 While  Média de Notas.pdb
